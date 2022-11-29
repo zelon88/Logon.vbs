@@ -1,0 +1,6 @@
+COMMIT - 11/25/2022
+v1.0 - Create script to be run from Task Scheduler.
+
+-v1.0.
+-Running the script from Task Scheduler means errors won't be shown to the user.
+--------------------
